@@ -1,11 +1,11 @@
 # FedBAGAN
 A production of BAGAN model implimented on Federated Learning structure with pytorch.
 The code can be run on colab by following instruction:
-1. running_BAGAN (Run code chunks from top to bottom, and skip the 'GAN training' chunk. 
+1. running_BAGAN.ipynb (Run code chunks from top to bottom, and skip the 'GAN training' chunk. 
 ps:aotoencoder and Fed_BAGAN training would take lot of time)
-2. inference 
-3. Calculate_FID
-4. visualize_loss
+2. inference.ipynb 
+3. Calculate_FID.ipynb
+4. visualize_loss.ipynb
 
 Noticed that the saving dir and training dir in each code should be change due to actural saving dir
 
