@@ -4,7 +4,7 @@ The code can be run on colab by following instruction:
 1. running_BAGAN.ipynb (Run code chunks from top to bottom, and skip the 'GAN training' chunk. 
 ps:aotoencoder and Fed_BAGAN training would take lot of time)
 2. inference.ipynb 
-3. Calculate_FID.ipynb
+3. Calculate_FID.ipynb (To implimnet the fid calculatiion you should manually upload Cifar-10 jpg image set can divided them into 10 classes and paste the dir to corresponding place)
 4. visualize_loss.ipynb
 
 Noticed that the saving dir and training dir in each code should be change due to actural saving dir
