@@ -1,7 +1,7 @@
 # FedBAGAN
 A production of BAGAN model implimented on Federated Learning structure with pytorch.
 The code can be run on colab by following instruction:
-1. running_BAGAN (Run code chunks from top to bottom, and skip the 'GAN training' chunk 
+1. running_BAGAN (Run code chunks from top to bottom, and skip the 'GAN training' chunk. 
 ps:aotoencoder and Fed_BAGAN training would take lot of time)
 2. inference 
 3. Calculate_FID
