@@ -12,3 +12,5 @@ Noticed that the saving dir and training dir in each code should be change due t
 Modify BAGAN here
 
 ![da22664fe4e3cd09b37d3b2865d8476](https://user-images.githubusercontent.com/58716235/173056434-424a3967-1544-4a88-b340-14758a877b6a.png)
+
+This project is completed by capstone group CS47-2 and supervised by Ali Anaissi from The University of Sydney
