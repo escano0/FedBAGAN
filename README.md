@@ -56,8 +56,8 @@ FEDBAGAN 100_SGD_CEL          |   97.13
 
 [3] *Rasouli, M., Sun, T., & Rajagopal, R. (2020). FEDGAN: Federated generative adversarial networks for distributed data. arXiv preprint arXiv:2006.07228.*
 
-[4] *Wang, H., Kaplan, Z., Niu, D., & Li, B. (2020, July). Optimizing federated learning on non-iid data with reinforcement learning. In IEEE INFOCOM 2020-IEEE Conference on Computer Communications (pp. 1698-1707). IEEE.
+[4] *Wang, H., Kaplan, Z., Niu, D., & Li, B. (2020, July). Optimizing federated learning on non-iid data with reinforcement learning. In IEEE INFOCOM 2020-IEEE Conference on Computer Communications (pp. 1698-1707). IEEE.*
 
-[5] *Wang, L., Xu, S., Wang, X., & Zhu, Q. (2021, February). Addressing class imbalance in federated learning. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 35, No. 11, pp. 10165-10173).
+[5] *Wang, L., Xu, S., Wang, X., & Zhu, Q. (2021, February). Addressing class imbalance in federated learning. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 35, No. 11, pp. 10165-10173).*
 
-[6] *Zhang, W., Wang, X., Zhou, P., Wu, W., & Zhang, X. (2021). Client selection for federated learning with non-iid data in mobile edge computing. IEEE Access, 9, 24462-24474.
+[6] *Zhang, W., Wang, X., Zhou, P., Wu, W., & Zhang, X. (2021). Client selection for federated learning with non-iid data in mobile edge computing. IEEE Access, 9, 24462-24474.*
